@@ -24,6 +24,5 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="21px" height="21px"></a>
 
 ### 🤝🏻 &nbsp;Connect with Me via linkedIn @ www.linkedin.com/in/haruna-oseni-b690191b8
