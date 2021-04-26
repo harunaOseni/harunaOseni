@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a software developer, passionate about writing code, building software, hacking projects together and research.\
+💡 &nbsp;I am a Front-end Engineer, passionate about writing code, building software, hacking projects together and research.\
 🎓 &nbsp;I'm all self taught and will continue to be since I've got this space age intriguing device called the INTERNET.\
 🌱 &nbsp;I'm crazy in love with react and also getting in uncomfortable situation where I'll have to result in hacking/researching my way through.\
 ✍️ &nbsp;In my free time, I imaging changing the world by making something users want.\
