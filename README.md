@@ -6,7 +6,7 @@
 
 💡 &nbsp;Engineer, passionate about writing code, building software, hacking projects together and research.\
 🎓 &nbsp;I'm all self taught and will continue to be since I've got this space age intriguing device called the INTERNET.\
-🌱 &nbsp;I'm crazy in love with react and also getting in uncomfortable situation where I'll have to result in hacking/researching my way through.\
+🌱 &nbsp;I love getting in uncomfortable situation where I'll have to result in hacking/researching my way through.\
 ✍️ &nbsp;In my free time, I imaging changing the world by making something users want.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at harunaoseni23@gmail.com! I'll try to respond as soon as I can.\
