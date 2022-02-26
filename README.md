@@ -21,7 +21,9 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react-native)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
-![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)&nbsp;
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
