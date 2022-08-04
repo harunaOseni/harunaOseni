@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react-native)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)&nbsp;
